@@ -1,1 +1,1 @@
-Description of project
+DESCRIPTION OF THE PROJECT
